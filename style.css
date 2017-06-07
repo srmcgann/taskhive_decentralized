@@ -1,0 +1,24 @@
+@font-face {
+	font-family: 'Square721';
+	src: url('TT0246M_.TTF') format('truetype'),
+		 url('TT0246M_.otf') format('opentype'),
+		 url('TT0246M_.woff') format('woff');
+}
+
+body{
+	margin:0;
+	background:#223;
+	font-family:Square721;
+	font-size:24px;
+	color:#aaa;
+}
+
+.headerCanvas{
+	width:100vw;
+	height:30vh;
+}
+
+.lorem{
+	margin:20px;
+	text-align:justify;
+}
